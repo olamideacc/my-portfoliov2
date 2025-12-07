@@ -375,3 +375,4 @@ canvas {
   }
 
 nav { display: none !important; }
+no gap left .header { display: none !important; } .home { padding-top: 0 !important; } /* remove the top spacing that was for the header */
